@@ -1,0 +1,4 @@
+Name & Surname: alper 
+Student Grade: 60.0
+Letter Grade: DD
+
